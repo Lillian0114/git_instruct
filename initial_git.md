@@ -80,7 +80,8 @@ nothing to commit, working tree clean
 ```
 $ git log
 ```
-看到一個版本更新紀錄，表示你成功了！
+git log可查看 git repo 中的 history commit。<br>
+若看到一個版本更新紀錄，表示你成功了！
 ```
 commit b7443be87f8e5385d44f20baee534077b10a1fb8 (HEAD -> master)
 Author: ChiaAn <32055946+Lillian0114@users.noreply.github.com>
@@ -91,7 +92,7 @@ Date:   Sat Jul 8 15:02:57 2023 +0800
 
 **小結**
 ===
-![這一小結的圖片](/git_one.png "git步驟")
+![這一小結的圖片](./pic/git_one.png "git步驟")
 ```
 1. 開新資料夾，git init 建立數據庫
 2. 新增一個檔案
