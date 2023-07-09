@@ -92,6 +92,7 @@ Date:   Sat Jul 8 15:02:57 2023 +0800
 
 **推到遠端數據庫**
 ==
+#### 指令 :  `git push -u origin main`
 ```
 1. 要記得設定SSH公私金鑰
 2. 輸入指令 : git remote add origin git@github.com:Lillian0114/你的Repository.git
